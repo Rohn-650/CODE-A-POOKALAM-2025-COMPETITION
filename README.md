@@ -36,7 +36,7 @@ python Pookalam.py
 ```
 Code-a-Pookalam-2025/
 ├── README.md
-├── pookalam.py
+├── Pookalam.py
 ├── output/
 │   └── pookalam_preview.png
 ```
