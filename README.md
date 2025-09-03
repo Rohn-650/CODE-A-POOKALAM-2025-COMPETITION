@@ -37,8 +37,7 @@ python Pookalam.py
 Code-a-Pookalam-2025/
 ├── README.md
 ├── Pookalam.py
-├── output/
-│   └── pookalam_preview.png
+├── pookalam_preview.png
 ```
 
 ## 🎊 Happy Onam! 🎊
